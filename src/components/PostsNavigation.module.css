@@ -1,0 +1,22 @@
+.header {
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.list {
+  display: flex;
+  gap: 1rem;
+}
+
+.list a {
+  color: var(--color-gray-900);
+  padding: 0 0.5rem;
+  text-decoration: none;
+}
+
+.list a:hover,
+.list a:active,
+.list a.active {
+  color: var(--color-primary-600);
+}
