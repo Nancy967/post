@@ -1,7 +1,5 @@
 # post
 
-[Youtube](https://youtu.be/TCNThtTZUn0?si=crXH8GPo1XVjJSqt)
-
 This is a website created using React and Spring Boot, named "Post." It consists of three main pages:
 
 "Home Page": This page is primarily for businesses, such as restaurants, to provide a brief introduction to their business information.
